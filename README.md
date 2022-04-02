@@ -29,15 +29,4 @@ If you are interested in certain topics please [open an issue](https://github.co
 
 This book is maintained by [Anton Babenko](https://github.com/antonbabenko) with the help of different contributors.
 
-## Need help?
-
-If you're looking for help or commercial support for Terraform and AWS, send an email to [anton@antonbabenko.com](mailto:anton@antonbabenko.com).
-
-## License
-
-This work is licensed under Apache 2 License. See LICENSE for full details.
-
-The authors and contributors to this content cannot guarantee the validity of the information found here. Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and any persons associated with this content or project. The authors and contributors do not assume and hereby disclaim any liability to any party for any loss, damage, or disruption caused by errors or omissions in the information contained in, associated with, or linked from this content, whether such errors or omissions result from negligence, accident, or any other cause.
-
-Copyright © 2018 Anton Babenko.
 
